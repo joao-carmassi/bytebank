@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/1e70cdd9-fea7-41bb-ae6c-b13fbeea7ef2)
+
+<hr>
+
 <p align="center"> <img src="https://imgur.com/1mc1qX7.png" alt="JavaScript: trabalhando com threads para requisições simultâneas"> </p>
 
 <hr>
@@ -20,3 +24,6 @@
 * HTML
 * CSS
 * JavaScript
+
+## Link:
+https://joao-carmassi.github.io/ByteBank/
