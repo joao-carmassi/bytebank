@@ -26,4 +26,4 @@
 * JavaScript
 
 ## Link:
-https://joao-carmassi.github.io/byte-bank/
+https://joao-carmassi.github.io/bytebank/
